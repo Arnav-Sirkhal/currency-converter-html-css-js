@@ -12,6 +12,19 @@ Designed with clean UI, smooth animations, and an intuitive user experience — 
 
 ---
 
+- [🚀 Live Demo](#-live-demo)
+- [📸 Preview](#-preview)
+- [✨ Features](#-features)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📂 Project Structure](#-project-structure)
+- [⚙️ How It Works](#️-how-it-works)
+- [📦 Installation & Setup](#-installation--setup)
+- [🧠 Learning Objectives](#-learning-objectives)
+- [🎨 UI Highlights](#-ui-highlights)
+- [👨‍💻 Author](#-author)
+
+---
+
 ## 🚀 Live Demo
 
 Try the app here: 👉 (https://arnav-sirkhal.github.io/currency-converter-html-css-js/)
