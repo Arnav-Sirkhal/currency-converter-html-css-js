@@ -14,16 +14,13 @@ Designed with clean UI, smooth animations, and an intuitive user experience — 
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Project](#)**
-_(Add your deployed link here — GitHub Pages / Netlify / Vercel)_
+Try the app here: 👉 (https://arnav-sirkhal.github.io/currency-converter-html-css-js/)
 
 ---
 
 ## 📸 Preview
 
 <img src="assets/preview.png" alt="Currency Converter Preview" width="600"/>
-
-_(Add your screenshot inside an `assets` folder and name it preview.png)_
 
 ---
 
@@ -51,21 +48,26 @@ _(Add your screenshot inside an `assets` folder and name it preview.png)_
 **API**
 
 - Currency API - Exchange Rate
-- Flag API - Country FLags
+- Flag API - Country Flags
 
 ---
 
 ## 📂 Project Structure
 
 ```
-currency-converter/
+currency-converter-html-css-js/
 │
-├── index.html        # Main HTML file
-├── style.css         # Styling file
-├── script.js         # JavaScript logic
-├── assets/           # Images and icons
+├── index.html
+├── style.css
+├── script.js
+├── code.js
+│
+├── assets/
 │   └── preview.png
-└── README.md        # Project documentation
+│
+├── LICENSE
+└── README.md
+
 ```
 
 ---
@@ -86,13 +88,13 @@ currency-converter/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Arnav-Sirkhal/currency-converter.git
+git clone https://github.com/Arnav-Sirkhal/currency-converter-html-css-js.git
 ```
 
 Open the project folder:
 
 ```bash
-cd currency-converter
+cd currency-converter-html-css-js
 ```
 
 Run the project:
@@ -124,7 +126,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Arnav Sirkhal**
 GitHub: https://github.com/Arnav-Sirkhal
 
 ---
